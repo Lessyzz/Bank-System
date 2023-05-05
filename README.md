@@ -2,6 +2,7 @@
 
 Veritabanı bağlantılı banka sistemi. Programı direkt indirerek çalıştırabilirsiniz.
 
+---
 
 ![image](https://user-images.githubusercontent.com/102208615/236535470-79cd0298-c609-4a22-8e3e-87350ee8c97d.png)
 
